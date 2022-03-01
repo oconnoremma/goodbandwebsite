@@ -1,0 +1,31 @@
+body {padding:0;margin:0;
+background-color:red}
+.h1 {font-family:"Courier New"}
+.BUTTON_DPM {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Courier New;
+   font-size: 23px;
+   font-weight: 300;
+   padding: 16px;
+   background-color: #E3D60B;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_DPM:hover {
+   background: #E31616;
+   border: solid #DD380D 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}.button {
+}

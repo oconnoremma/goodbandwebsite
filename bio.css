@@ -1,0 +1,14 @@
+body{padding:0;margin:0;
+background-color:red}
+.instrument1{position:absolute;
+	left:100px;top:300px;}
+.lap2{position:absolute;
+	left:350px;top:320px;}
+
+.audio {
+}
+.h1{font-family:"Courier New"}
+.p{font-family:"Courier New"}
+.p2{font-family:"Courier New";
+position:absolute;
+left:450px;top:500px}
